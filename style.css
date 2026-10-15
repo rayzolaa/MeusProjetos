@@ -1,0 +1,14 @@
+.catalogo{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.produto{
+    width: 250px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 0 10px grey;
+    text-align: center;
+}
